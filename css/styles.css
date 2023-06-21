@@ -254,7 +254,7 @@ padding-bottom: 10px;
 
 .blackbackground2{
     background-color: var(--background-index) ;
-    background: linear-gradient(rgba(255,255,255,0), rgba(0,0,0,0.5)), url('/images/Imagen-fondo.jpg');
+    background: linear-gradient(rgba(255,255,255,0), rgba(0,0,0,0.7)), url('/images/Imagen-fondo.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
