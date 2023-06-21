@@ -491,7 +491,7 @@ padding-top:12px;
 
 .blackbackground2{
     background-color: var(--background-index) ;
-    background: linear-gradient(rgba(255,255,255,0), rgba(0,0,0,0.7)), url('/images/Imagen-fondo.jpg');
+    background: linear-gradient(rgba(255,255,255,0), rgba(0,0,0,0.7)), url('../images/Imagen-fondo.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -499,17 +499,17 @@ padding-top:12px;
 
 
 .backgroundg-img1{
-    background: url(/images/imagen.jpg);
+    background-image: url(../images/imagen.jpg);
     background-repeat: no-repeat;
     background-size: auto auto;
 }
 .backgroundg-img2{
-    background: url(/images/imagen2.jpg);
+    background-image: url(../images/imagen2.jpg);
     background-repeat: no-repeat;
     background-size: auto auto;
 }
 .backgroundg-img3{
-    background: url(/images/imagen3.jpg);
+    background-image: url(../images/imagen3.jpg);
     background-repeat: no-repeat;
     background-size: auto auto;
 }
