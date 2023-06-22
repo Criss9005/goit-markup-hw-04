@@ -153,6 +153,7 @@ body{
     line-height: 2;
     margin: 0;
     padding-left: 24px;
+    padding-right: 24px;
     }
 
 .img-subtitle{
@@ -545,5 +546,3 @@ margin-top:254px;
 .header-contacts:hover>.mail-ubication, .header-contacts:hover>.phone-ubication, .header-contacts:focus>.phone-ubication, .header-contacts:focus>.mail-ubication {
     stroke: var(--brand-color);
 }
-
-
