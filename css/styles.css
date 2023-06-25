@@ -1,13 +1,14 @@
-:root{--brand-color:#2196F3;}
-:root{--text-color:#757575;}
-:root{--text2-color:#FFFFFF;}
-:root{--dominat-color:#212121;}
-:root{--butt-color:rgba(255, 255, 255, 0.6);}
-:root{--background-color:#E5E5E5;}
-:root{--cards-color: #EEEEEE;}
-:root{--background-index:#2F303A;}
-:root{--iconbg-color:#F5F4FA;}
-
+:root{
+    --brand-color:#2196F3;
+    --text-color:#757575;
+    --text2-color:#FFFFFF;
+    --dominat-color:#212121;
+    --butt-color:rgba(255, 255, 255, 0.6);
+    --background-color:#E5E5E5;
+    --cards-color: #EEEEEE;
+    --background-index:#2F303A;
+    --iconbg-color:#F5F4FA;
+}
 
 *,
 *::before,
